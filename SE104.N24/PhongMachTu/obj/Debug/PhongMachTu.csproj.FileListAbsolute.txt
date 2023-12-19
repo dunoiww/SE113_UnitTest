@@ -1,0 +1,1035 @@
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\doctorPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\doctorPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exercises\Nhap mon\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_Content.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+C:\Users\lenovo\Documents\PhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\medicinePage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+D:\UIT\2022-2023 Year2\term2\QuanLyPhongMachTu\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Dashboard.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\completeappointmentUC.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\reportPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\Pages\settingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu (1)\PhongMachTu\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\App.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\App.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Dashboard.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\MainWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\newappointmentsUC.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\policyPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\policyPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\itextsharp.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_2\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\itextsharp.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\policyPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\App.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\App.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Dashboard.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\MainWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\policyPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_GanCuoi\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\itextsharp.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\policyPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\App.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\App.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Dashboard.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\MainWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\policyPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\PhongMachTu_95\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\itextsharp.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Dashboard.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\MainWindow.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\policyPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\App.g.cs
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\App.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Dashboard.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\PageGuiMa.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\LoginWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\MainWindow.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineDetail.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\policyPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\reportPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\settingPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.baml
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\Exercises\Nhap mon\PhongMachTu_96\PhongMachTu\obj\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Dashboard.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\policyPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\reportPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\settingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Dashboard.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginPages\MainLoginPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\LoginWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Appointments\DetailAppointment.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Billing\DetailBilling.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\dashBoardPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\Employee_Information.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Employees\NewEmployee.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Medicine\MedicineAdd.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Medicine\MedicineMain.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\policyPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\reportPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\settingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Statistics\DoanhThuPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\Pages\Statistics\Statistic_Main.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\PhongMachTu_97\PhongMachTu\obj\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\policyPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\reportPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\settingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\policyPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\reportPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\settingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Dashboard.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\MainWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\Dashboard.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\LoginWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\Finel\PhongMachTu\obj\Debug\Views\MainWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Dashboard.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\MainWindow.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\policyPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\reportPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\settingPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Dashboard.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\LoginWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\MainWindow.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\policyPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\reportPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\settingPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.baml
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.exe
+C:\Users\lenovo\Desktop\PhongMachTu_97\99%\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\itextsharp.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.csproj.SuggestedBindingRedirects.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Dashboard.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\MainWindow.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\policyPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\reportPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\settingPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\App.g.cs
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\App.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Dashboard.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\LoginWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\MainWindow.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\policyPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\reportPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\settingPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.baml
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\UIT\2022-2023 Year2\term2\SE104.N24.CLC\CodeToMerge\SE104_FinalProjects\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.csproj.AssemblyReference.cache
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Dashboard.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginWindow.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\MainWindow.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\policyPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\reportPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\settingPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\App.g.cs
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.cache
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu_MarkupCompile.lref
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.exe
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\NUnit3.TestAdapter.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\NUnit3.TestAdapter.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\nunit.engine.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\nunit.engine.api.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\nunit.engine.core.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\testcentric.engine.metadata.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\PhongMachTu.exe.config
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\PhongMachTu.exe
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\PhongMachTu.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\BouncyCastle.Crypto.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Xceed.Document.NET.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Xceed.Words.NET.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\EntityFramework.SqlServer.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\EntityFramework.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\itextsharp.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\LiveCharts.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\LiveCharts.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\LiveCharts.Wpf.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\LiveCharts.Wpf.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Newtonsoft.Json.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\nunit.framework.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\nunit.framework.legacy.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\SautinSoft.Document.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\MaterialDesignColors.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\MaterialDesignColors.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\PhongKhamTu\SE104.N24\PhongMachTu\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\App.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Dashboard.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginPages\MainLoginPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginPages\PageQuenMK.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\LoginWindow.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\MainWindow.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Appointments\appointmentsPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Appointments\DetailAppointment.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Billing\billingPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Billing\DetailBilling.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\dashBoardPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_Information.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\Employee_MainPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Employees\NewEmployee.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineAdd.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Medicine\MedicineMain.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\AddPatients.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\DetailPatients.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Patients\patientsPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\policyPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\reportPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\settingPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Statistics\DoanhThuPage.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\Views\Pages\Statistics\Statistic_Main.baml
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.g.resources
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.Properties.Resources.resources
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.csproj.GenerateResource.cache
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\PhongKhamTu\SE104.N24\PhongMachTu\obj\Debug\PhongMachTu.csproj.CopyComplete

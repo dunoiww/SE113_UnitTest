@@ -1,0 +1,365 @@
+﻿<Page x:Class="PhongMachTu.Controllers.Pages.Appointments.DetailAppointmentController"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PhongMachTu.Pages.Appointments"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="800" d:DesignWidth="1171"
+      Title="DetailAppointment">
+
+    <Grid Background="#F1F8FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="250"/>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+
+        <!--Header-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="859*"/>
+                <ColumnDefinition Width="58"/>
+                <ColumnDefinition Width="294*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <TextBlock 
+                    x:Name="txt_MaPK"
+                    Text="hi"
+                    Margin="120,43,55,0"
+                    FontFamily="Sora" 
+                    FontSize="35"
+                    FontWeight="DemiBold"
+                    Foreground="#2672E7">
+                </TextBlock>
+                <Button Margin="45 0 0 0"
+                        Click="Back_Click"
+                        HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignIconButton}"
+                        Background="LightGray">
+                    <materialDesign:PackIcon Kind="ArrowBack" Foreground="Black"/>
+                </Button>
+            </Grid>
+        </Grid>
+        <!--Header-->
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0"
+                           Margin="50 0 10 0"
+                           VerticalAlignment="Center"
+                           Text="Mã BN" 
+                           Width="163"
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                <TextBox Grid.Column="1"
+                         x:Name="txt_MaBN"
+                         Margin="15 0 10 0"
+                         Width="150"
+                         VerticalAlignment="Center"
+                         FontFamily="Sora" 
+                         FontSize="20" 
+                         FontWeight="DemiBold" 
+                         Foreground="#969795"
+                         IsEnabled="False"/>
+
+                <TextBlock Grid.Column="2"
+                           Margin="50 0 10 0"
+                           VerticalAlignment="Center"
+                           Text="Họ tên" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                <TextBox Grid.Column="3"
+                         x:Name="txt_FullName"
+                         Margin="10 0"
+                         VerticalAlignment="Center"
+                         Width="250" 
+                         FontFamily="Sora" 
+                         FontSize="20" 
+                         FontWeight="DemiBold" 
+                         Foreground="#969795"
+                         IsEnabled="False"/>
+
+                <TextBlock Grid.Column="4"
+                           Margin="50 0 10 0"
+                           VerticalAlignment="Center"
+                           Text="Giới tính" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                <TextBox Grid.Column="5"
+                         x:Name="txt_GioiTinh"
+                         Margin="10 0 10 0"
+                         VerticalAlignment="Center"
+                         Width="120"
+                         FontFamily="Sora" 
+                         FontSize="20" 
+                         FontWeight="DemiBold" 
+                         Foreground="#969795"
+                         IsEnabled="False"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0"
+                           Margin="50 0"
+                           VerticalAlignment="Center"
+                           Text="Triệu chứng" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                <TextBox Grid.Column="1"
+                         x:Name="txt_TrieuChung"
+                         Margin="40 0 0 0"
+                         VerticalAlignment="Center"
+                         HorizontalAlignment="Left"
+                         Width="400" 
+                         FontFamily="Sora" 
+                         FontSize="20" 
+                         FontWeight="DemiBold" 
+                         Foreground="#969795"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="223"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0"
+                           Margin="50 0"
+                           VerticalAlignment="Center"
+                           Text="Chuẩn đoán" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                <TextBox Grid.Column="1"
+                         x:Name="txt_Doan"
+                         Margin="15 0 10 0"
+                         VerticalAlignment="Center"
+                         HorizontalAlignment="Left"
+                         Width="600" 
+                         FontFamily="Sora" 
+                         FontSize="20" 
+                         FontWeight="DemiBold" 
+                         Foreground="#969795"/>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="350"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="223"/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0"
+                           Margin="50 0"
+                           VerticalAlignment="Center"
+                           Text="Tên thuốc" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                        <ComboBox Margin="15 0 0 0"
+                          FontFamily="Sora" FontSize="23" 
+                          FontWeight="DemiBold" Foreground="#969795"
+                          x:Name="cmbTenThuoc" 
+                          Grid.Column="1" 
+                          Width="200"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Center"/>
+
+                        <TextBlock Grid.Column="2"
+                           Margin="20 0"
+                           VerticalAlignment="Center"
+                           Text="Số lượng" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                        <TextBox Grid.Column="3" 
+                                 x:Name="txt_SoLuong" 
+                                 Margin="20 0"
+                                 Width="80" 
+                                 FontFamily="Sora" 
+                                 FontSize="20" 
+                                 FontWeight="DemiBold" 
+                                 Foreground="#969795"
+                                 HorizontalAlignment="Left"
+                                 VerticalAlignment="Center"/>
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="223"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Grid.Column="0"
+                           Margin="50 0"
+                           VerticalAlignment="Center"
+                           Text="Ghi chú" 
+                           FontFamily="Sora" 
+                           FontSize="18" 
+                           FontWeight="DemiBold" 
+                           Foreground="#969795"/>
+
+                        <TextBox Grid.Column="1" 
+                                 x:Name="txt_GhiChu" 
+                                 Margin="15 0"
+                                 Width="580" 
+                                 FontFamily="Sora" 
+                                 FontSize="20" 
+                                 FontWeight="DemiBold" 
+                                 Foreground="#969795"
+                                 HorizontalAlignment="Left"
+                                 VerticalAlignment="Center"/>
+                    </Grid>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Button Click="Add_Click"
+                            Content="Add"
+                            Width="200"
+                            Height="50"
+                            FontSize="20"/>
+                </Grid>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="2" Margin="40 20 0 0">
+            <ListView x:Name="dsChiDinh" 
+                ItemsSource="{Binding PatientFiltering, UpdateSourceTrigger=PropertyChanged}">
+                <ListView.View>
+                    <GridView>
+
+                        <GridViewColumn Header="ID " Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding MaThuoc}"></TextBlock>
+                                    </Grid>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                        <GridViewColumn Header="Tên thuốc" Width="270">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                   Text="{Binding TenThuoc}"></TextBlock>
+                                    </Grid>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+
+                        <GridViewColumn Header="Số lượng" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding SoLuong}"></TextBlock>
+                                    </Grid>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                        <GridViewColumn Header="Ghi chú" Width="550">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding GhiChu}"></TextBlock>
+                                    </Grid>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0"
+                    x:Name="btnSave"
+                    Click="btnSave_Click"
+                    Margin="10"
+                    HorizontalAlignment="Right"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Width="200"
+                    ToolTip="Resource name: MaterialDesignRaisedButton"
+                    Content="Save"/>
+
+            <Button Grid.Column="1"
+                    x:Name="btnDelete"
+                    Click="Delete_Click"
+                    Margin="10"
+                    HorizontalAlignment="Left"
+                    Style="{StaticResource MaterialDesignPaperButton}"
+                    Width="200"
+                    ToolTip="Resource name: MaterialDesignPaperButton"
+                    Content="Delete"/>
+        </Grid>
+
+    </Grid>
+</Page>

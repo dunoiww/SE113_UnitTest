@@ -1,0 +1,236 @@
+﻿<Page x:Class="PhongMachTu.Controllers.Pages.Patients.patientsPageController"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:PhongMachTu.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1211"
+      Title="patientsPage">
+
+    <Grid Background="#F1F8FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!--Header-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="859*"/>
+                <ColumnDefinition Width="58"/>
+                <ColumnDefinition Width="294*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock 
+                Margin="52,43,55,0"
+                Text="Patients Detail"
+                FontFamily="Sora" 
+                FontSize="35"
+                FontWeight="DemiBold"
+                Foreground="#2672E7" Grid.ColumnSpan="2">
+            </TextBlock>
+
+            <Image  x:Name="imgCurrentUser" Grid.Column="1" Source="/Resources/logo.png" Margin="0,47,0,25"/>
+            <StackPanel Grid.Column="2" Margin="10 49 0 0" >
+                <TextBlock x:Name="txtCurrentUser"                 
+                    Text="Nguyen Thi Cam Tu"
+                    FontFamily="Sora" 
+                    FontSize="23"
+                    FontWeight="DemiBold"
+                    Foreground="#565772">
+                </TextBlock>
+                <TextBlock x:Name="txtCurrentUserRole"
+                    Text="Admin"
+                    FontFamily="Sora" 
+                    FontSize="14"
+                    FontWeight="DemiBold"
+                    Foreground="#969795">
+                </TextBlock>
+            </StackPanel>
+
+        </Grid>
+        <!--Header-->
+        <Border Grid.Row="1" Padding="40 0 40 40">
+            <materialDesign:Card BorderThickness="10"  Background="#F5F6FA">
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100"/>
+                        <RowDefinition Height="100"/>
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2" >
+                        <TextBlock Height="44"
+                        Text="Patients Info"
+                        FontFamily="Sora" 
+                        FontSize="24"
+                        FontWeight="DemiBold"
+                        Foreground="#565772" Margin="46,28,555,28"/>
+                        <Button Background="#3497F9" Height="4" Margin="46,64,901,32"/>
+                        <Button 
+                            Click="Add_Click"
+                            Background="#3497F9"
+                            Content="New Patients" 
+                            Width="202" Height="50"
+                            FontSize="24" FontWeight="DemiBold" 
+                            Margin="820,16,92,34">
+                        </Button>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="436*"/>
+                            <ColumnDefinition Width="671*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <!--<TextBox 
+                            Padding="50 15 0 0"
+                            FontSize="15"
+                            materialDesign:HintAssist.Hint="Search"
+                            Background="#F7F8FC"
+                            Width="338"
+                            Height="50"
+                            Margin="0 0 0 10">
+                            </TextBox>-->
+
+                            <Border Margin="0 15 0 0" CornerRadius="20" BorderThickness="1" Background="#EFEFEF" Height="50" Width="348" VerticalAlignment="Top">
+                                <Grid>
+                                    <TextBox x:Name="txt_Filter" 
+                                             TextChanged="txt_Filter_TextChanged" Padding="50 16 0 0" Height="50" FontFamily="Sora" FontSize="15" FontWeight="DemiBold" Foreground="Black"
+                                            materialDesign:HintAssist.Hint="Search"/>
+                                    <materialDesign:PackIcon Height="30" Width="30" Margin="10 10 0 0" Kind="Magnify" />
+                                </Grid>
+
+                            </Border>
+
+                            <!--<Image Source="/Resources/search.jpg"  Height="30" Width="30" Margin="49,12,347,30">
+                                
+                            </Image>-->
+
+                        </Grid>
+
+
+                        <!--<StackPanel Grid.Column="1"
+                                Height="70" Width="338"
+                            HorizontalAlignment="Left" 
+                            VerticalAlignment="Center" Margin="51,0,0,0">
+
+                            <TextBox
+                                x:Name="FilterByDate"
+  
+                                Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                                TextWrapping="Wrap"  
+                                FontSize="15"
+                                VerticalScrollBarVisibility="Auto"
+                                materialDesign:HintAssist.Hint="Filter by Date" 
+                            />
+                        </StackPanel>-->
+
+
+                    </Grid>
+
+
+                    <Grid Grid.Row="2" Margin="40 0 0 0">
+                        <ListView x:Name="dsBenhNhan" 
+                                  ItemsSource="{Binding PatientFiltering, UpdateSourceTrigger=PropertyChanged}"
+                                  MouseDoubleClick="dsBenhNhan_MouseDoubleClick">
+                            <ListView.View>
+                                <GridView>
+
+
+
+
+                                    <GridViewColumn Header="ID " Width="100">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding MaBN}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+                                    <GridViewColumn Header="Tên bệnh nhân" Width="170">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding FullName}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+                                    <GridViewColumn Header="Ngày sinh" Width="130">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding Birthday, StringFormat={}\{0:MM/dd/yyyy\}}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+                                    <GridViewColumn Header="Giới tính" Width="120">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding Sex}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+                                    <GridViewColumn Header="Số ĐT" Width="150">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding SDT}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+                                    <GridViewColumn Header="Địa chỉ" Width="310">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Grid>
+                                                    <TextBlock Margin="17 4.5 0 0" Foreground="#898A8B"  FontFamily="Sora" FontSize="14" FontWeight="DemiBold" 
+                                                                       Text="{Binding DiaChi}"></TextBlock>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+
+
+
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+
+                    </Grid>
+                </Grid>
+
+
+            </materialDesign:Card>
+
+        </Border>
+
+
+
+
+
+    </Grid>
+</Page>
+

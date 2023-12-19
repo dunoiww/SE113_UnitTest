@@ -1,0 +1,130 @@
+﻿<Page x:Class="PhongMachTu.Controllers.Pages.Patients.DetailPatientsController"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PhongMachTu.Pages.Patients"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1211"
+      Title="DetailPatients">
+
+
+    <Grid Background="#F1F8FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+
+            <RowDefinition />
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <!--Header-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="859*"/>
+                <ColumnDefinition Width="58"/>
+                <ColumnDefinition Width="294*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <TextBlock 
+                    Margin="120,43,55,0"
+                    Text="DETAIL"
+                    FontFamily="Sora" 
+                    FontSize="35"
+                    FontWeight="DemiBold"
+                    Foreground="#2672E7">
+                </TextBlock>
+                <Button Margin="45 0 0 0"
+                        Click="Back_Click"
+                        HorizontalAlignment="Left"
+                        Style="{StaticResource MaterialDesignIconButton}"
+                        Background="LightGray"
+                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}">
+                    <materialDesign:PackIcon Kind="ArrowBack" Foreground="Black"/>
+                </Button>
+            </Grid>
+        </Grid>
+        <!--Header-->
+
+        <Grid Grid.Row="1">
+
+
+
+
+
+
+
+
+
+
+            <!--MaBN-->
+            <TextBlock Margin="70 140 0 0" Text="Mã bệnh nhân" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="280 130 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="170" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBlock x:Name="txt_MaBN" Padding="0 12 0 0" Height="50" Width="150" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            </Border>
+            <!--FullName-->
+            <TextBlock Margin="480 140 0 0" Text="Họ tên" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="580 130 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBox x:Name="txt_FullName" Padding="0 12 0 0" Height="50" Width="480" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></TextBox>
+            </Border>
+            <!--Age-->
+            <TextBlock Margin="70 240 0 0" Text="Ngày sinh" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="280 230 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <DatePicker x:Name="txt_Birthday" Padding="0 0 0 0" Height="50" Width="200" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></DatePicker>
+            </Border>
+            <!--Gender-->
+            <TextBlock Margin="530 240 0 0" Text="Giới tính" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="650 230 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBox x:Name="txt_GioiTinh" Padding="0 12 0 0" Height="50" Width="200" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></TextBox>
+            </Border>
+
+            <!--SDT-->
+            <TextBlock Margin="70 340 0 0" Text="Thông tin liên lạc" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="280 330 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="800" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBox x:Name="txt_SDT" Padding="0 12 0 0" Height="50" Width="790" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></TextBox>
+            </Border>
+
+            <!--Address-->
+            <TextBlock Margin="70 440 0 0" Text="Địa chỉ" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            <Border Margin="280 430 0 0" CornerRadius="5" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="800" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBox x:Name="txt_DiaChi" Padding="0 12 0 0" Height="50" Width="790" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"></TextBox>
+            </Border>
+            <!--Job-->
+
+
+
+
+
+        </Grid>
+
+
+
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                Margin="20"
+                Click="Save_Click"
+                Content="Save"
+                Width="200"
+                Height="50"
+                FontSize="24"></Button>
+            <Button
+                Grid.Column="1"
+                HorizontalAlignment="Left"
+                Margin="20"
+                Click="Delete_Click"
+                Content="Delete"
+                Width="200"
+                Height="50"
+                FontSize="24"></Button>
+        </Grid>
+
+    </Grid>
+</Page>

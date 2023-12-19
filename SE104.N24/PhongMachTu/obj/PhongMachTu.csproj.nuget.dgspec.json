@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PhongKhamTu\\SE104.N24\\PhongMachTu\\PhongMachTu.csproj": {}
+  },
+  "projects": {
+    "D:\\PhongKhamTu\\SE104.N24\\PhongMachTu\\PhongMachTu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhongKhamTu\\SE104.N24\\PhongMachTu\\PhongMachTu.csproj",
+        "projectName": "PhongMachTu",
+        "projectPath": "D:\\PhongKhamTu\\SE104.N24\\PhongMachTu\\PhongMachTu.csproj",
+        "packagesPath": "C:\\Users\\namng\\.nuget\\packages\\",
+        "outputPath": "D:\\PhongKhamTu\\SE104.N24\\PhongMachTu\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\namng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "DocX": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            },
+            "sautinsoft.document": {
+              "target": "Package",
+              "version": "[2023.4.19, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

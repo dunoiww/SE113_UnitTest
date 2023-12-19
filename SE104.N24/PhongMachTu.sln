@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhongMachTu", "PhongMachTu\PhongMachTu.csproj", "{13C02AAC-FEE3-4BB5-9F26-19BDD25950E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_PhongMachTu", "UnitTest_PhongMachTu\UnitTest_PhongMachTu.csproj", "{37B1F7D7-4971-437E-BDBD-96496A3261A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C02AAC-FEE3-4BB5-9F26-19BDD25950E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C02AAC-FEE3-4BB5-9F26-19BDD25950E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C02AAC-FEE3-4BB5-9F26-19BDD25950E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C02AAC-FEE3-4BB5-9F26-19BDD25950E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B1F7D7-4971-437E-BDBD-96496A3261A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B1F7D7-4971-437E-BDBD-96496A3261A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B1F7D7-4971-437E-BDBD-96496A3261A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B1F7D7-4971-437E-BDBD-96496A3261A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE767F5-243F-4CEA-8149-105DAD2ECBAA}
+	EndGlobalSection
+EndGlobal

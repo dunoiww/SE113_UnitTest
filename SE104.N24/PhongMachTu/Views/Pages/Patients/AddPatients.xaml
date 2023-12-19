@@ -1,0 +1,161 @@
+﻿<Page x:Class="PhongMachTu.Controllers.Pages.Patients.AddPatientsController"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:PhongMachTu.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1211"
+      Title="patientsPage">
+
+    <Grid Background="#F1F8FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="90"/>
+            <RowDefinition/>
+            <RowDefinition Height="120"/>
+        </Grid.RowDefinitions>
+
+        <!--Header-->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="859*"/>
+                <ColumnDefinition Width="58"/>
+                <ColumnDefinition Width="294*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock 
+                Margin="52,43,55,0"
+                Text="Patients Detail"
+                FontFamily="Sora" 
+                FontSize="35"
+                FontWeight="DemiBold"
+                Foreground="#2672E7" Grid.ColumnSpan="2">
+            </TextBlock>
+        </Grid>
+        <!--Header-->
+        <Grid Grid.Row="1" Width='1100'>
+            <materialDesign:Card BorderThickness="10"  Background="#F1F8FF">
+                <StackPanel Orientation="Horizontal">
+                    <Button Margin="15 0 0 0"
+                        Click="Back_Click"
+                        Style="{StaticResource MaterialDesignIconButton}"
+                        Background="LightGray"
+                        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}">
+                        <materialDesign:PackIcon Kind="ArrowBack" Foreground="Black"/>
+                    </Button>
+                    <TextBlock 
+                        Text="New Patient"
+                        VerticalAlignment="Center"
+                        Margin="30 0 0 0"
+                        FontFamily="Sora" 
+                        FontSize="27"
+                        FontWeight="DemiBold"
+                        Foreground="#565772">
+                    </TextBlock>
+                </StackPanel>
+            </materialDesign:Card>
+        </Grid>
+
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="180"/>
+                <ColumnDefinition Width="269*"/>
+                <ColumnDefinition Width="130*"/>
+                <ColumnDefinition Width="300*"/>
+            </Grid.ColumnDefinitions>
+
+
+
+            <Grid Grid.Column="0" >
+
+                <TextBlock Margin="35 100 0 0" Text="Full Name:" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+                <TextBlock Margin="35 170 0 0" Text="Birthday:" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+                <TextBlock Margin="35 240 0 0" Text="Địa chỉ:" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+            </Grid>
+
+            <Grid Grid.Column="2">
+                <TextBlock Margin="55 100 0 0" Text="Giới tính:" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+                <TextBlock Margin="55 170 0 0" Text="Số ĐT:" FontFamily="Sora" FontSize="18" FontWeight="DemiBold" Foreground="#969795"></TextBlock>
+
+
+            </Grid>
+
+            <!--Info benh nhan-->
+            <!--CỘT 1-->
+            <Grid Grid.Column="1">
+
+                <Border Margin="0 90 0 0" CornerRadius="20" BorderThickness="1" BorderBrush="#2672E7" Height="50" VerticalAlignment="Top">
+                    <TextBox Padding="0 12 0 0" Height="50" Width="350" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"
+                             x:Name="txt_FullName"></TextBox>
+                </Border>
+                <Border Margin="0 160 0 0" CornerRadius="20" BorderThickness="1" BorderBrush="#2672E7" Height="50" VerticalAlignment="Top">
+                    <DatePicker Padding="0 0 0 0" Height="50" Width="350" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"
+                                x:Name="DatepickerEmployee"
+                                PreviewKeyDown="DatepickerEmployee_PreviewKeyDown"></DatePicker>
+                </Border>
+                <Border Margin="0,230,-576,0" CornerRadius="20" BorderThickness="1" BorderBrush="#2672E7" Height="50" VerticalAlignment="Top">
+                    <TextBox Padding="0 12 0 0" Height="50" Width="930" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"
+                             x:Name="txt_DiaChi"></TextBox>
+                </Border>
+
+            </Grid>
+            <!--Info benh nhan-->
+            <!--CỘT 2-->
+            <Grid Grid.Column="3">
+                <Border Margin="0 90 0 0" CornerRadius="20" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="387" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <ComboBox x:Name="cmbSex"
+                             Width="350"
+                             FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795" >
+                        <ComboBoxItem FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795" >Nam</ComboBoxItem>
+                        <ComboBoxItem FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795" >Nữ</ComboBoxItem>
+                    </ComboBox>
+                </Border>
+
+                <Border Margin="0 160 0 0" CornerRadius="20" BorderThickness="1" BorderBrush="#2672E7" Height="50" Width="387" VerticalAlignment="Top" HorizontalAlignment="Left">
+                    <TextBox Padding="0 12 0 0" Height="50" Width="350" FontFamily="Sora" FontSize="20" FontWeight="DemiBold" Foreground="#969795"
+                             x:Name="txt_SDT"></TextBox>
+                </Border>
+            </Grid>
+
+
+
+        </Grid>
+
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button 
+                Grid.Column="0"
+                HorizontalAlignment="Right"
+                Margin="20"
+                Click="Save_Click"
+                Background="#3497F9"
+                Content="Save" 
+                Width="200" Height="50"
+                FontSize="24" FontWeight="DemiBold">
+            </Button>
+            <Button 
+                Grid.Column="1"
+                HorizontalAlignment="Left"
+                Margin="20"
+                Click="Back_Click"
+                Background="#3497F9"
+                Content="Cancel" 
+                Width="200" Height="50"
+                FontSize="24" FontWeight="DemiBold" >
+            </Button>
+        </Grid>
+
+
+
+    </Grid>
+</Page>
+
+
